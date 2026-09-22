@@ -263,15 +263,18 @@ td {
     justify-content: space-evenly;
     padding: 30px;
     background-color: #003466;
-    margin: 30px;
+    margin: 15px;
     border-bottom: 5px solid #ffc425;
     border-radius: 25px 25px 0 0;
+    flex-wrap: wrap;
+    align-content: space-evenly;
 
 }
 
 .projectimages img {
     border: 2px solid black;
     border-radius: 50px;
+    margin: 15px;
 }
 
 .projectimages img:hover {
